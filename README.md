@@ -1,4 +1,5 @@
 # DrAI: Personalized AI Medical Advisor
+![image](https://github.com/user-attachments/assets/463aa984-9b86-485a-bbf4-b0d558634f63)
 
 ## Project Description
 DrAI is a personalized, AI-powered medical chatbot designed to provide context-aware medical consultations. The system integrates **Retrieval-Augmented Generation (RAG)**, combining the generative capabilities of large language models with effective information retrieval techniques to deliver accurate, context-specific responses.
